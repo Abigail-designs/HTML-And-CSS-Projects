@@ -1,0 +1,36 @@
+body { 
+    background-color:242589;
+}
+h1 { 
+    color:rbga(0,141,165,1);
+    margin: left 100px;
+    text: shadow 1px .5px 4px rbga(0,0,0 0.6);
+}
+.container {
+    width: 450px;
+    height: 450px;
+    background: color #faebd7;
+    border: 2px soild black;
+    border-radius: 5%;
+}
+
+/----------
+SELECT ALL THE SQUARES IN THE ARRAY 
+_----------------------------------/
+.container .square:nth-child(-n+4) {
+    background-image: url(".. *)
+    color:#fff:
+    float:left:
+    width: 100px: 
+    height: 100px:
+    boarder: 1px solid black: 
+    boarder-radius: 25%:
+    cursor: pointer:
+}
+
+/----------
+SELECT ALL SQUARES PARAGRAPHS IN THE ARRAY
+-----------/
+.squares:nth-child(-n+4) p{
+    font-family:"Helevtica Neue", Arial, Helvetica, sans-serif
+  
