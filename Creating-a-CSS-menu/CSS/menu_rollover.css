@@ -1,5 +1,5 @@
 body {
-    background: #184352
+    background: #184352;
 }
 .wrap {
     top:0;
@@ -35,7 +35,7 @@ body {
     cursor:pointer;
 }
 .menu li: hover{
-    background-color: #5eafdf
+    background-color: #5eafdf;
     color:#fff;
 }
 .menu li: hover ul{
@@ -53,7 +53,7 @@ body {
     opacity:0;
     /* while hovered, drop down menu appears 
     this also avoids a block level bug */
-    visibility: hidden;
+    visibility: visible;
 }
 .submenu li{
     background-color: #387593;
